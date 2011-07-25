@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>CodeIgniter &rsaquo; Unit Testing &rsaquo; Index</title>
-<link rel="stylesheet" type="text/css" href="tests/unit_test.css" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="simpletest/unit_test.css" charset="utf-8">
 
 </head>
 <body>
